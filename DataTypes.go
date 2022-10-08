@@ -15,9 +15,9 @@ A> Data Types are divided into 4 categories
 	2. Booleans
 	3. Strings
 
-		a.1> Numbers
-		--------
-		Numbers are again categorised into 3 sub categories
+		a.1> Numeric
+		------------
+		Numeric are again categorised into 3 sub categories
  		1. integers
  		2. floats-point numbers
  		3. complex numbers
